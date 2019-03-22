@@ -1,2 +1,2 @@
 # CSC394-enigma
-Basic Node.js application with MySQL backend
+Basic web application built using MySQL, Blade, PHP, and Laravel generator.
